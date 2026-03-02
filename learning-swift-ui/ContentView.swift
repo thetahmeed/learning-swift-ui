@@ -14,7 +14,7 @@ struct ContentView: View {
     var body: some View {
         VStack {
             // 1. Text
-            Text("Hello World!")
+            Text("Hello World! dd")
             
             // 2. Icon
             Image(systemName: "square.and.arrow.up")
